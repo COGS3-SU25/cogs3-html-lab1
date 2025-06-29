@@ -38,6 +38,7 @@ For example, if your last name is Lee, name your file: `LeeLab1PartA.html`
 ## 📁 Folder Structure
 
 Your repo should look like this:
+```
 html-lab1-template/
 ├── README.md
 ├── PartA/
@@ -46,6 +47,7 @@ html-lab1-template/
 │ └── LastnameLab1PartB.html
 ├── PartC/
 │ └── LastnameLab1PartC.html
+```
 
 
 Each file should be renamed using your **own last name**.
