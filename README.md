@@ -33,8 +33,7 @@ For example, if your last name is Lee, name your file: `LeeLab1PartA.html`
 - Demonstrate creativity and layout
 - Optionally add inline or internal CSS to enhance your page
 
----
-<pre><code>## 📁 Folder Structure Your repo should look like this: ```text html-lab1-template/ ├── README.md ├── PartA/ │ └── LastnameLab1PartA.html ├── PartB/ │ └── LastnameLab1PartB.html ├── PartC/ │ └── LastnameLab1PartC.html ``` Each file should be renamed using your **own last name**. </code></pre>
+
 ## 📁 Folder Structure
 
 Your repo should look like this:
