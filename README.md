@@ -23,4 +23,4 @@ We’ll review your HTML structure and creativity — have fun and make it yours
 
 ---
 
-🆘 **Need help?** Ask during lab or office hours. Don’t email — post on Ed Discussion or check with your TA.
+🆘 **Need help?** Ask during lab or office hours. Don’t email — go to section/lab for any and all help!
